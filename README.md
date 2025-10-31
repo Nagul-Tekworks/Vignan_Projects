@@ -13,6 +13,6 @@
 # Team -11: Transaction Data Analysis
 # Team -12: IPL Match Data Analysis
 # Team -13: IPL Match Data Analysis
-# Team -14: IPL Match Data Analysis
+# Team -14: Olympic dataset analysis
 # Team -15: Transaction Data Analysis
 # Team -16: Census Data Analysis
