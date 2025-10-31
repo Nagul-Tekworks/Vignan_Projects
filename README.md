@@ -11,8 +11,8 @@
 # Team -9:
 # Team -10:
 # Team -11:
-# Team -12:
+# Team -12: IPL Match Data Analysis
 # Team -13:
 # Team -14:
-# Team -15:
-# Team -16:
+# Team -15: Transaction Data Analysis
+# Team -16: Census Data Analysis
