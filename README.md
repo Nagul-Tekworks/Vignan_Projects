@@ -2,7 +2,7 @@
 
 # Team -1:  Census Data Analysis
 # Team -2:  Transaction Data Analysis
-# Team -3:
+# Team -3:  Olympic dataset analysis
 # Team -4:
 # Team -5:
 # Team -6:
