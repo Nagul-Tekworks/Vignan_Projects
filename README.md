@@ -8,7 +8,7 @@
 # Team -6:  Census Data Analysis
 # Team -7:  IPL Match Data Analysis
 # Team -8:  IPL Match Data Analysis
-# Team -9:
+# Team -9:  Olympic dataset analysis
 # Team -10: Olympic dataset analysis
 # Team -11: Transaction Data Analysis
 # Team -12: IPL Match Data Analysis
