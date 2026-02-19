@@ -5,3 +5,5 @@
 # 3:  Olympic dataset analysis
 # 4:  IPL Match Data Analysis
 # 5:  HR Data Analysis
+# 6:  IBM data Analysis
+# 7: Petro data analysis
